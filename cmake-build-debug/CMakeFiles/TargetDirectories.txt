@@ -1,0 +1,3 @@
+/home/dawid/Documents/checkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dawid/Documents/checkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dawid/Documents/checkers/cmake-build-debug/CMakeFiles/checkers.dir
